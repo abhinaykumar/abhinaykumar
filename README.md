@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Abhinay Kumar. I spend most of my time building software, and occasionally exploring music, writing, and chess. <br><br>I’ve spent over a decade building products and working with engineering teams. <br><br>I currently run a software services company, Kernel Theory<br>KernelTheory is a boutique software consulting company that partners with startups and enterprises to build scalable, elegant, and user-centric digital products. From rapid MVPs to production-grade systems, we blend deep engineering expertise with business insight to <br>deliver high-impact results.
+Hi, I’m Abhinay Kumar. I spend most of my time building software, and occasionally exploring music, writing, and chess. <br><br>I’ve spent over a decade building products and working with engineering teams. <br><br>I currently run a software services company, Kernel Theory<br>KernelTheory is a boutique software consulting company that partners with startups and enterprises to build scalable, elegant, and user-centric digital products. From rapid MVPs to production-grade systems, we blend deep engineering expertise with business insight to deliver high-impact results.
 
 
 ## 🌐 Socials:
